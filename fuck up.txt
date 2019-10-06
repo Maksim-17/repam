@@ -1,3 +1,4 @@
 print ("tiktak")
 print ("toktik")
 print ("зоя")
+print ("коля")
